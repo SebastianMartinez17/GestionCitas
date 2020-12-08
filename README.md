@@ -1,2 +1,2 @@
-El trabajo esta en el Branch "Master"
+El trabajo está en el Branch "Master"
 
